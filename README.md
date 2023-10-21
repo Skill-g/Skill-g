@@ -1,6 +1,4 @@
-# 👋 Всем привет!
-
-## 🔭 I’m Nikita - Frontend Developer
+<h1 align="center">Hi 👋, I'm Nikita</h1>
 
 # 💻 Стек разработки
 
