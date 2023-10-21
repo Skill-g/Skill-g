@@ -1,7 +1,7 @@
 name: generate-snake-game-from-github-contribution-grid
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
@@ -10,14 +10,18 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@v3.0.0
-        id: snake-gif
+      - name: Generate Snake Game SVG
+        uses: Platane/snk@v3.0.0
         with:
           github_user_name: Skill-g
-          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Save Snake Game SVG
+        run: |
+          cp ./snake.svg dist/github-contribution-grid-snake.svg
+        working-directory: ${{ github.workspace }}
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
