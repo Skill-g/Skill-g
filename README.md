@@ -7,7 +7,6 @@
 ### 😂 Рандомный Мем
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-###
 
 <img src="https://raw.githubusercontent.com/Skill-g/Skill-g/output/snake.svg" alt="Snake animation" />
 
