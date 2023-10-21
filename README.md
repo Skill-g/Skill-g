@@ -9,5 +9,3 @@
 ### 😂 Рандомный Мем
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<img href="https://shikimori.me/characters/141354-violet-evergarden" src="./violet.gif" />
