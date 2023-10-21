@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikita</h1>
+<h3 align="center">Hi 👋, I'm Nikita</h3>
 
 # 💻 Стек разработки
 
@@ -7,3 +7,8 @@
 ### 😂 Рандомный Мем
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+###
+
+<img src="https://raw.githubusercontent.com/Skill-g/Skill-g/output/snake.svg" alt="Snake animation" />
+
+###
