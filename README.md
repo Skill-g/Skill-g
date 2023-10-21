@@ -6,4 +6,3 @@
 
 ##
 <img src="https://github.com/Skill-g/Skill-g/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-##
