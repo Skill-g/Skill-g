@@ -7,12 +7,3 @@
 ### 
 
 <img src="./snake.svg" alt="Snake animation" />
-
-###
-
-<style>
-#user-content-hi--im-nikita {
-  border-bottom: none;
-}
-</style>
-
