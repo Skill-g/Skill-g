@@ -10,3 +10,9 @@
 
 ###
 
+<style>
+.br-none {
+  border-bottom: none;
+}
+</style>
+
