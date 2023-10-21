@@ -11,7 +11,7 @@
 ###
 
 <style>
-.br-none {
+#user-content-hi--im-nikita {
   border-bottom: none;
 }
 </style>
