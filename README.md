@@ -1,6 +1,6 @@
 # 👋 Всем привет!
 
-🔭 I’m Nikita - Frontend Developer
+## 🔭 I’m Nikita - Frontend Developer
 
 # 💻 Стек разработки
 
