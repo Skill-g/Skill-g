@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Nikita</h3>
+<h1 align="center" style="border-bottom: none">Hi 👋, I'm Nikita</h1>
 
 # 💻 Стек разработки
 
