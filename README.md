@@ -6,9 +6,9 @@
 
 ## 📫 How to reach me
 
-[![Twitter: @_skillx3](https://img.shields.io/twitter/follow/Kotkoa?style=social)](https://twitter.com/_skillx3)
-[![GitHub Skill-g](https://img.shields.io/github/followers/Kotkoa?label=follow&style=social)](https://github.com/Skill-g)
-[![Telegram: Skill331](https://img.shields.io/badge/-Kotkoa-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Kotkoa)](https://t.me/Skill331)
+[![Twitter: @_skillx3](https://img.shields.io/twitter/follow/Skill?style=social)](https://twitter.com/_skillx3)
+[![GitHub Skill-g](https://img.shields.io/github/followers/Skill?label=follow&style=social)](https://github.com/Skill-g)
+[![Telegram: Skill331](https://img.shields.io/badge/-Skill-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Kotkoa)](https://t.me/Skill331)
 
 ##
 <img src="https://github.com/Skill-g/Skill-g/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
