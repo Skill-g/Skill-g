@@ -6,8 +6,8 @@
 
 ## 📫 How to reach me
 
-[![Twitter: @_skillx3](https://img.shields.io/twitter/follow/Skill?style=social)](https://twitter.com/_skillx3)
-[![GitHub Skill-g](https://img.shields.io/github/followers/Skill?label=follow&style=social)](https://github.com/Skill-g)
+[![Twitter: @_skillx3](https://img.shields.io/twitter/follow/_skillx3?style=social)](https://twitter.com/_skillx3)
+[![GitHub Skill-g](https://img.shields.io/github/followers/Skill-g?label=follow&style=social)](https://github.com/Skill-g)
 [![Telegram: Skill331](https://img.shields.io/badge/-Skill-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Kotkoa)](https://t.me/Skill331)
 
 ##
